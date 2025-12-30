@@ -3,7 +3,7 @@
 A full-stack web application that scrapes articles from BeyondChats Blog, enriches them using AI (Google Gemini), and displays results in a professional React UI with side-by-side comparison.
 
 <p align="center">
-  <img src="./dashboard.png" alt="Dashboard Preview" width="49%" />
+  <img src="./image.png" alt="Dashboard Preview" width="49%" />
   <img src="./comparison.png" alt="Comparison View" width="49%" />
 </p>
 
